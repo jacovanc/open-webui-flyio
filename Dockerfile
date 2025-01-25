@@ -9,5 +9,5 @@ ENV OLLAMA_BASE_URL="http://ollama-backend.internal:11434"
 
 # Define the volume
 # Is this needed?
-VOLUME ["/app/backend/data"]
-
+# VOLUME ["/app/backend/data"]
+#
